@@ -1,0 +1,10 @@
+name: ida-schemes
+version: 0.1.0
+dependencies:
+  - base
+  - free
+  - recursion-schemes
+  - transformers-compat
+executable:
+  main: Main.hs
+  source-dirs: src

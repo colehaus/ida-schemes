@@ -1,0 +1,5 @@
+*.cabal
+result
+dist-newstyle/
+cabal.project.local*
+.stack-work/
